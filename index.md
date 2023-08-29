@@ -1,3 +1,10 @@
+##Nakul's first CS193 Homework
+##Some of my favorite things about CS193:
+
+-How informal it is -- feels more like a discussion with friends than a class I have to take. 
+-How it teaches real world knowledge regarding applications rather than just abstract, intangible knowledge that is a pre-requisite for some higher course.
+-How chill the teachers are -- I do not imagine the ice breakers at the beginning of the class to be happening anywhere else but in classes like CS193. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
